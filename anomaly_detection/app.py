@@ -3,7 +3,8 @@ import pandas as pd
 import os
 
 # File path to the enhanced CSV
-data_path = "anomaly_with_profit_loss.csv"
+data_path = "../anomaly_with_profit_loss.csv"
+#data_path = "anomaly_with_profit_loss.csv"
 #data_path = r"C:\Users\Manoj\OneDrive\Desktop\AIL\results\anomaly_detection\anomaly_with_profit_loss.csv"
 plots_dir = "anomaly_plots"
 
